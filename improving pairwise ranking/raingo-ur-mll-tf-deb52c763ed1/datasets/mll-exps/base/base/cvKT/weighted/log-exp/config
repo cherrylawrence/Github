@@ -1,0 +1,2 @@
+--depend root:mll/weighted/log-exp/FINISHED
+--pretrained_ckpt root:mll/weighted/log-exp/model.ckpt

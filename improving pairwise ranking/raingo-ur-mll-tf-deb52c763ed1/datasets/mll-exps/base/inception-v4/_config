@@ -1,0 +1,7 @@
+--cnn_class slim2.inception_resnet_v2
+--train_batch_size 32
+--eval_batch_size 10
+--val_step 10000
+--load_cnn_weights
+--cnn_lr_mult 0.1
+--num_epochs 10

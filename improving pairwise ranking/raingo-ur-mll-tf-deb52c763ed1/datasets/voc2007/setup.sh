@@ -1,0 +1,1 @@
+../nus-wide/setup.sh

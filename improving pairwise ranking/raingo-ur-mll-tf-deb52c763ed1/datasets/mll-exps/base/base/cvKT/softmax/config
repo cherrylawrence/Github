@@ -1,0 +1,2 @@
+--depend root:mll/softmax/FINISHED
+--pretrained_ckpt root:mll/softmax/model.ckpt

@@ -1,0 +1,81 @@
+BG
+animal (16%)
+BG
+BG
+BG
+BG
+BG
+BG
+buildings (9%)
+BG
+BG
+BG
+BG
+clouds (26%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+grass (11%)
+BG
+BG
+BG
+lake (6%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+person (25%)
+BG
+plants (7%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+sky (35%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+water (17%)
+BG
+BG
+BG
+window (7%)
+BG

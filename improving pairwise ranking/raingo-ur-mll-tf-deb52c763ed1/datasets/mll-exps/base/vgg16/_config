@@ -1,0 +1,7 @@
+--cnn_class caffe.vgg16
+--train_batch_size 16
+--eval_batch_size 10
+--val_step 10000
+--load_cnn_weights
+--cnn_lr_mult 0.1
+--num_epochs 10

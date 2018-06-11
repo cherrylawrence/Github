@@ -1,0 +1,7 @@
+--loss mll_exp3
+--base_lr 0.01
+--optim_name momentum
+--lr_decay_epochs 25
+--lr_decay_rate 0.1
+--train_split trainval.tf
+--logits_trans

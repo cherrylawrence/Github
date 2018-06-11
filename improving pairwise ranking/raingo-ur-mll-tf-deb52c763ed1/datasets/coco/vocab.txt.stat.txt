@@ -1,0 +1,80 @@
+person (55%)
+BG
+car (10%)
+BG
+BG
+BG
+BG
+truck (5%)
+BG
+BG
+BG
+BG
+BG
+bench (5%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+handbag (6%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+bottle (7%)
+BG
+cup (8%)
+BG
+BG
+BG
+bowl (6%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+chair (11%)
+BG
+BG
+BG
+dining table (10%)
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
+BG
